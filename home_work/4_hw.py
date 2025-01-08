@@ -113,11 +113,3 @@ Dynamic_Properties = Sidebar('Dynamic Properties')
 print(Dynamic_Properties.text)
 Dynamic_Properties.click()
 
-
-
-
-
-
-
-
-
